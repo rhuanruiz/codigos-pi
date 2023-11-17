@@ -1,0 +1,5 @@
+Valor = 1 // Fatorial = 1
+Valor = 2 // Fatorial = 2
+Valor = 3 // Fatorial = 6
+Valor = 4 // Fatorial = 24
+Valor = 5 // Fatorial = 120
